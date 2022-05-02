@@ -15,8 +15,5 @@ def deps do
 end
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/cards>.
+Documentation can be found at <https://rawcdn.githack.com/NarendraRavuri/cards/73003edc748bc429dcf2b2ca6b4eff91ee8d994a/doc/index.html>.
 
-#Cards
