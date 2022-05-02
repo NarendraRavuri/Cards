@@ -15,5 +15,5 @@ def deps do
 end
 ```
 
-Documentation can be found at <https://rawcdn.githack.com/NarendraRavuri/cards/73003edc748bc429dcf2b2ca6b4eff91ee8d994a/doc/index.html>.
+Documentation can be found [here](https://rawcdn.githack.com/NarendraRavuri/cards/73003edc748bc429dcf2b2ca6b4eff91ee8d994a/doc/index.html) .
 
